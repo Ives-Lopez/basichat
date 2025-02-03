@@ -29,7 +29,7 @@ include'dbcon.php';
 
 
 
-<body>
+<body background="galaxy.jpg">
     
    
     <div class="container">

@@ -23,7 +23,8 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     width: 400px;
-    padding: 100px;
+    height: 400px;
+    padding: 59px;
 }
 
 
@@ -85,9 +86,13 @@ input[type="submit"] {
     font-size: 16px;
 }
 .main{
+    font-size: 30px;
+    margin-top: -50px;
+    text-align: center;
     background-color: black;
     color: white;
-    font-size: 25;
-    padding: 25px;
+    font-size: 40px;
+    width: 400px;
+    height: 50px;
 }
 
