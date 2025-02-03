@@ -15,7 +15,7 @@ include'dbcon.php';
     <script>
         function fetchMessages() {
             var xhr = new XMLHttpRequest();
-            xhr.open('GET', 'recieve.php', true);
+            xhr.open('GET', 'receive.php', true);
             xhr.onload = function() {
                 if (this.status == 200) {
                     document.getElementById('chat-box').innerHTML = this.responseText;
